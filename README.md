@@ -1,7 +1,7 @@
 PySkeleton
 ===========
 
-* V0.0.0-beta.1
+* v0.0.0-beta.1
 * Dommert Inc
 
 Python Skeleton for Projects.
