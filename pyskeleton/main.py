@@ -1,4 +1,4 @@
-# PySkeleton v0.0.0-beta.1
+# PySkeleton v0.0.1-beta.1
 #
 # MAIN.py
 

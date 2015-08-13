@@ -1,4 +1,4 @@
-PySkeleton V0.0.0-beta.1
+PySkeleton v0.0.1-beta.1
 
 This is where some fancy license goes where you tell people what they can and can't do.
 Anyone can change or modify pyskeleton, as long as they leave the skeleton.md file.
